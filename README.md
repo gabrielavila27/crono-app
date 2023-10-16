@@ -8,8 +8,8 @@
 </div>
 
 ## Download⬇️
-* Download do vídeo de demonstração do app
-* Download a demo video of the app here
+* <a href="src/ReadmeSrc/cronometro_video.mp4" download>Download do vídeo de demonstração do app</a>
+* <a href="src/ReadmeSrc/cronometro_video.mp4" download>Download a demo video of the app here</a>
 
 
 ## Tecnologias (Technologies)💻
