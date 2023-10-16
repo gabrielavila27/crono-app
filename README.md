@@ -4,7 +4,7 @@
 
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
   <img src="src/ReadmeSrc/cronometro_video_sc01.jpg" style="width: 18rem">
-  <img src="src/ReadmeSrc/cronometro_video_sc01.jpg" style="width: 18rem">
+  <img src="src/ReadmeSrc/cronometro_video_sc02.jpg" style="width: 18rem">
 </div>
 
 ## Download⬇️
